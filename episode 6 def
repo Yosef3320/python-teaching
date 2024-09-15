@@ -1,0 +1,5 @@
+def is to difine stuff like variables lists and tuples.
+The way it is different is because you can make it equal to print and input, for example:
+def pizza():
+  print("peperoni")
+
