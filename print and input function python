@@ -8,5 +8,6 @@ and if you have numbers ONLY than it doesn't need quatation marks or double quat
 print(12345678910) It would still work,now that doesn't mean you can't have quatation marks its just a extra tip.
 If you put another double quatation mark in a double quatation
 If you get an error and you don't no why, maiby you put a capital P for print,well it has to be lowercase.
+if you want the computer to make the sentance come down a line then just put \n in the string where you ant it to come down a line.
 Also print doesn't let the person answer,and that's why I'm talking about input right now.
 input is the same as print just leting the person answer.See you next time.
