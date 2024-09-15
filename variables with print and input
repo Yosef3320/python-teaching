@@ -1,0 +1,9 @@
+what if you want to make the variable actualy do something?
+did you know print and input can say what the variable equals?
+if I put this in:
+food = pizza
+print(food)
+guess what it will say, it will say pizza!
+with variables when you put them in stuff they're like numbers!
+no need to have quatation marks around them!
+
