@@ -1,0 +1,7 @@
+do you get tired of creating variables?
+no need to worry, because lists can be many things!
+if I put:
+food = ["pizza","pasta","turkey"]
+than it would have the same response as variables, it would say nothing.
+it needs the brackets just like input and print do.
+if I wanted to say just
