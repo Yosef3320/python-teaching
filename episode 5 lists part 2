@@ -10,4 +10,4 @@ then make ONLY THE NUMBERS with no quatation marks.
 what if the whole thing is numbers?
 same thing as variables!
 tuples are the same thing as lists just you can't change the strings and instead of brackets you use these:
-{}
+()
