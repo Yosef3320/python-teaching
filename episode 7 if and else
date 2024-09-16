@@ -7,9 +7,12 @@ if food == "universal" :
   print(hey, me too!!)
 if food == "fun spot" :
   print(what, that place is fruad spot!!)
+else:
+  print("sorry, that's not an option.")
 So now, if I say disney it will say: oh,cool
 if I say universal it will say:hey, me too!!
-And so on.Remember its ==, not =.
+And so on.The else says if they say anything else than say sorry, that's not
+Remember its ==, not =.
 REMEMBER THE TAB!!!
 the colin is basically saying: hey this is what it equals!
 you can put defs lists and tuples in if and else to.
