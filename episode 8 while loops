@@ -1,0 +1,16 @@
+while loops can be quite difficult, but with this your gonna remember.
+here is a example of a while loop:
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+We are using variables combined with if and else and numbers!!
+That's allot!! But I will teach you it!
+In the example above, i is equal to one. The while i less than six thing means that when the variable i, difined as 1,is less than 6 he should do whatever is
+under the colin.The print i means, oops, you already know! The i += 1 thing means i,difined as 1, gets another one every time.
+Heres another example:
+i = 6
+while i > 1:
+  print(i)
+  i -= 1
+This is the same thing as += and lessthan just the opposite. -= means the same as += just instead of plus, its minus.
