@@ -1,6 +1,6 @@
 so, you having trouble making the computer do stuff only if stuff happen?
 No problem, if and else can handle it!for example:
-food = input("what is your favorite, disney, universal, or fun spot?")
+the_fun = input("what is your favorite, disney, universal, or fun spot?")
 if food == "disney" :
   print(oh, cool)
 if food == "universal" :
@@ -12,3 +12,4 @@ if I say universal it will say:hey, me too!!
 And so on.Remember its ==, not =.
 REMEMBER THE TAB!!!
 the colin is basically saying: hey this is what it equals!
+you can put defs lists and tuples in if and else to.
