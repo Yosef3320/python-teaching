@@ -4,7 +4,21 @@ print(20 + 18)
 print(20 - 18)
 This will actualy solve this!
 What if I want it to input it?
-Easy! what if I wanted to do multiplacation, there 
+Easy!All I need to do is this:
+j = input("what is 5 - 5?")
+if j == 0:
+  print("correct")
+else:
+  print("nope")
+and if I want it to do it until he answers correct then this:
+while True:
+  j = input("what is 5 - 5?")
+  if j == 0:
+    print("correct")
+    break
+  else:
+    print("nope")
+what if I wanted to do multiplacation, there 
 is no key for that. Well with shift eight that is the multiplication sighn!
 It looks like this:
 *
